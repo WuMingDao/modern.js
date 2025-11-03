@@ -87,20 +87,8 @@ exports[`builder environment compat > should generator environment config correc
                       "postcssPlugin": "postcss-flexbugs-fixes",
                     },
                     {
-                      "postcssPlugin": "postcss-custom-properties",
-                      "prepare": [Function],
-                    },
-                    {
-                      "Declaration": [Function],
-                      "postcssPlugin": "postcss-initial",
-                    },
-                    {
                       "Declaration": [Function],
                       "postcssPlugin": "postcss-page-break",
-                    },
-                    {
-                      "Once": [Function],
-                      "postcssPlugin": "postcss-font-variant",
                     },
                     {
                       "AtRule": {
@@ -115,17 +103,19 @@ exports[`builder environment compat > should generator environment config correc
                     },
                     {
                       "browsers": [
-                        "> 0.01%",
-                        "not dead",
-                        "not op_mini all",
+                        "chrome >= 87",
+                        "edge >= 88",
+                        "firefox >= 78",
+                        "safari >= 14",
                       ],
                       "info": [Function],
                       "options": {
                         "flexbox": "no-2009",
                         "overrideBrowserslist": [
-                          "> 0.01%",
-                          "not dead",
-                          "not op_mini all",
+                          "chrome >= 87",
+                          "edge >= 88",
+                          "firefox >= 78",
+                          "safari >= 14",
                         ],
                       },
                       "postcssPlugin": "autoprefixer",
@@ -168,20 +158,8 @@ exports[`builder environment compat > should generator environment config correc
                       "postcssPlugin": "postcss-flexbugs-fixes",
                     },
                     {
-                      "postcssPlugin": "postcss-custom-properties",
-                      "prepare": [Function],
-                    },
-                    {
-                      "Declaration": [Function],
-                      "postcssPlugin": "postcss-initial",
-                    },
-                    {
                       "Declaration": [Function],
                       "postcssPlugin": "postcss-page-break",
-                    },
-                    {
-                      "Once": [Function],
-                      "postcssPlugin": "postcss-font-variant",
                     },
                     {
                       "AtRule": {
@@ -196,17 +174,19 @@ exports[`builder environment compat > should generator environment config correc
                     },
                     {
                       "browsers": [
-                        "> 0.01%",
-                        "not dead",
-                        "not op_mini all",
+                        "chrome >= 87",
+                        "edge >= 88",
+                        "firefox >= 78",
+                        "safari >= 14",
                       ],
                       "info": [Function],
                       "options": {
                         "flexbox": "no-2009",
                         "overrideBrowserslist": [
-                          "> 0.01%",
-                          "not dead",
-                          "not op_mini all",
+                          "chrome >= 87",
+                          "edge >= 88",
+                          "firefox >= 78",
+                          "safari >= 14",
                         ],
                       },
                       "postcssPlugin": "autoprefixer",
@@ -253,9 +233,10 @@ exports[`builder environment compat > should generator environment config correc
                   "coreJs": "3.46",
                   "mode": "entry",
                   "targets": [
-                    "> 0.01%",
-                    "not dead",
-                    "not op_mini all",
+                    "chrome >= 87",
+                    "edge >= 88",
+                    "firefox >= 78",
+                    "safari >= 14",
                   ],
                 },
                 "isModule": "unknown",
@@ -320,9 +301,10 @@ exports[`builder environment compat > should generator environment config correc
                   "coreJs": "3.46",
                   "mode": "entry",
                   "targets": [
-                    "> 0.01%",
-                    "not dead",
-                    "not op_mini all",
+                    "chrome >= 87",
+                    "edge >= 88",
+                    "firefox >= 78",
+                    "safari >= 14",
                   ],
                 },
                 "isModule": "unknown",
@@ -516,20 +498,8 @@ exports[`builder environment compat > should generator environment config correc
                       "postcssPlugin": "postcss-flexbugs-fixes",
                     },
                     {
-                      "postcssPlugin": "postcss-custom-properties",
-                      "prepare": [Function],
-                    },
-                    {
-                      "Declaration": [Function],
-                      "postcssPlugin": "postcss-initial",
-                    },
-                    {
                       "Declaration": [Function],
                       "postcssPlugin": "postcss-page-break",
-                    },
-                    {
-                      "Once": [Function],
-                      "postcssPlugin": "postcss-font-variant",
                     },
                     {
                       "AtRule": {
@@ -544,17 +514,19 @@ exports[`builder environment compat > should generator environment config correc
                     },
                     {
                       "browsers": [
-                        "> 0.01%",
-                        "not dead",
-                        "not op_mini all",
+                        "chrome >= 87",
+                        "edge >= 88",
+                        "firefox >= 78",
+                        "safari >= 14",
                       ],
                       "info": [Function],
                       "options": {
                         "flexbox": "no-2009",
                         "overrideBrowserslist": [
-                          "> 0.01%",
-                          "not dead",
-                          "not op_mini all",
+                          "chrome >= 87",
+                          "edge >= 88",
+                          "firefox >= 78",
+                          "safari >= 14",
                         ],
                       },
                       "postcssPlugin": "autoprefixer",
@@ -614,20 +586,8 @@ exports[`builder environment compat > should generator environment config correc
                       "postcssPlugin": "postcss-flexbugs-fixes",
                     },
                     {
-                      "postcssPlugin": "postcss-custom-properties",
-                      "prepare": [Function],
-                    },
-                    {
-                      "Declaration": [Function],
-                      "postcssPlugin": "postcss-initial",
-                    },
-                    {
                       "Declaration": [Function],
                       "postcssPlugin": "postcss-page-break",
-                    },
-                    {
-                      "Once": [Function],
-                      "postcssPlugin": "postcss-font-variant",
                     },
                     {
                       "AtRule": {
@@ -642,17 +602,19 @@ exports[`builder environment compat > should generator environment config correc
                     },
                     {
                       "browsers": [
-                        "> 0.01%",
-                        "not dead",
-                        "not op_mini all",
+                        "chrome >= 87",
+                        "edge >= 88",
+                        "firefox >= 78",
+                        "safari >= 14",
                       ],
                       "info": [Function],
                       "options": {
                         "flexbox": "no-2009",
                         "overrideBrowserslist": [
-                          "> 0.01%",
-                          "not dead",
-                          "not op_mini all",
+                          "chrome >= 87",
+                          "edge >= 88",
+                          "firefox >= 78",
+                          "safari >= 14",
                         ],
                       },
                       "postcssPlugin": "autoprefixer",
@@ -736,20 +698,8 @@ exports[`builder environment compat > should generator environment config correc
                       "postcssPlugin": "postcss-flexbugs-fixes",
                     },
                     {
-                      "postcssPlugin": "postcss-custom-properties",
-                      "prepare": [Function],
-                    },
-                    {
-                      "Declaration": [Function],
-                      "postcssPlugin": "postcss-initial",
-                    },
-                    {
                       "Declaration": [Function],
                       "postcssPlugin": "postcss-page-break",
-                    },
-                    {
-                      "Once": [Function],
-                      "postcssPlugin": "postcss-font-variant",
                     },
                     {
                       "AtRule": {
@@ -764,17 +714,19 @@ exports[`builder environment compat > should generator environment config correc
                     },
                     {
                       "browsers": [
-                        "> 0.01%",
-                        "not dead",
-                        "not op_mini all",
+                        "chrome >= 87",
+                        "edge >= 88",
+                        "firefox >= 78",
+                        "safari >= 14",
                       ],
                       "info": [Function],
                       "options": {
                         "flexbox": "no-2009",
                         "overrideBrowserslist": [
-                          "> 0.01%",
-                          "not dead",
-                          "not op_mini all",
+                          "chrome >= 87",
+                          "edge >= 88",
+                          "firefox >= 78",
+                          "safari >= 14",
                         ],
                       },
                       "postcssPlugin": "autoprefixer",
@@ -826,20 +778,8 @@ exports[`builder environment compat > should generator environment config correc
                       "postcssPlugin": "postcss-flexbugs-fixes",
                     },
                     {
-                      "postcssPlugin": "postcss-custom-properties",
-                      "prepare": [Function],
-                    },
-                    {
-                      "Declaration": [Function],
-                      "postcssPlugin": "postcss-initial",
-                    },
-                    {
                       "Declaration": [Function],
                       "postcssPlugin": "postcss-page-break",
-                    },
-                    {
-                      "Once": [Function],
-                      "postcssPlugin": "postcss-font-variant",
                     },
                     {
                       "AtRule": {
@@ -854,17 +794,19 @@ exports[`builder environment compat > should generator environment config correc
                     },
                     {
                       "browsers": [
-                        "> 0.01%",
-                        "not dead",
-                        "not op_mini all",
+                        "chrome >= 87",
+                        "edge >= 88",
+                        "firefox >= 78",
+                        "safari >= 14",
                       ],
                       "info": [Function],
                       "options": {
                         "flexbox": "no-2009",
                         "overrideBrowserslist": [
-                          "> 0.01%",
-                          "not dead",
-                          "not op_mini all",
+                          "chrome >= 87",
+                          "edge >= 88",
+                          "firefox >= 78",
+                          "safari >= 14",
                         ],
                       },
                       "postcssPlugin": "autoprefixer",
@@ -923,9 +865,10 @@ exports[`builder environment compat > should generator environment config correc
                       "coreJs": "3.46",
                       "mode": "entry",
                       "targets": [
-                        "> 0.01%",
-                        "not dead",
-                        "not op_mini all",
+                        "chrome >= 87",
+                        "edge >= 88",
+                        "firefox >= 78",
+                        "safari >= 14",
                       ],
                     },
                     "isModule": "unknown",
@@ -998,9 +941,10 @@ exports[`builder environment compat > should generator environment config correc
                       "coreJs": "3.46",
                       "mode": "entry",
                       "targets": [
-                        "> 0.01%",
-                        "not dead",
-                        "not op_mini all",
+                        "chrome >= 87",
+                        "edge >= 88",
+                        "firefox >= 78",
+                        "safari >= 14",
                       ],
                     },
                     "isModule": "unknown",
@@ -1259,7 +1203,7 @@ exports[`builder environment compat > should generator environment config correc
     },
     "target": [
       "web",
-      "browserslist:> 0.01%,not dead,not op_mini all",
+      "es2017",
     ],
     "watchOptions": {
       "aggregateTimeout": 0,
@@ -1391,7 +1335,7 @@ exports[`builder environment compat > should generator environment config correc
               "options": {
                 "env": {
                   "targets": [
-                    "node >= 14",
+                    "node >= 16",
                   ],
                 },
                 "isModule": "unknown",
@@ -1451,7 +1395,7 @@ exports[`builder environment compat > should generator environment config correc
               "options": {
                 "env": {
                   "targets": [
-                    "node >= 14",
+                    "node >= 16",
                   ],
                 },
                 "isModule": "unknown",
@@ -1827,7 +1771,7 @@ exports[`builder environment compat > should generator environment config correc
                   "options": {
                     "env": {
                       "targets": [
-                        "node >= 14",
+                        "node >= 16",
                       ],
                     },
                     "isModule": "unknown",
@@ -1898,7 +1842,7 @@ exports[`builder environment compat > should generator environment config correc
                   "options": {
                     "env": {
                       "targets": [
-                        "node >= 14",
+                        "node >= 16",
                       ],
                     },
                     "isModule": "unknown",
@@ -2210,7 +2154,7 @@ exports[`builder environment compat > should generator environment config correc
                 "env": {
                   "mode": undefined,
                   "targets": [
-                    "node >= 14",
+                    "node >= 16",
                   ],
                 },
                 "isModule": "unknown",
@@ -2271,7 +2215,7 @@ exports[`builder environment compat > should generator environment config correc
                 "env": {
                   "mode": undefined,
                   "targets": [
-                    "node >= 14",
+                    "node >= 16",
                   ],
                 },
                 "isModule": "unknown",
@@ -2629,7 +2573,7 @@ exports[`builder environment compat > should generator environment config correc
                     "env": {
                       "mode": undefined,
                       "targets": [
-                        "node >= 14",
+                        "node >= 16",
                       ],
                     },
                     "isModule": "unknown",
@@ -2701,7 +2645,7 @@ exports[`builder environment compat > should generator environment config correc
                     "env": {
                       "mode": undefined,
                       "targets": [
-                        "node >= 14",
+                        "node >= 16",
                       ],
                     },
                     "isModule": "unknown",
